@@ -6,7 +6,7 @@ These are some homework assignments from Foundations of Computing, Fall 2022.
 
 * [Homework 5](homework_5) - Sorting, filtering, and visualizating data using pandas DataFrames.
 * [Homework 6](homework_6) - More intensive work with DataFrames and some exploratory data viz.
-* [Homework 7](homework_7) - Reinforcing concepts from the previous assignments, plus downloading data with beautifulSoup before cleaning and compiling it.
+* [Homework 7](homework_7) - Reinforcing concepts from the previous assignments, plus downloading data before cleaning and compiling it with Beautiful Soup.
 
 ## Contact
 
